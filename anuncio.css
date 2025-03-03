@@ -1,0 +1,9 @@
+.periodico{margin:5px}
+.periodico .container{display:flex; margin-top: auto;}
+.periodico .columna{border-right: 3px dashed gray; border-left: 3px dashed gray; marging: 5px; padding-right: 10px;width: 150px}
+.periodico div div{border: black 1px solid; margin: 5px 0px;}
+.periodico h1{background-color: gray; font-size: 4rem;margin: 0px;padding-right: 10px}
+.periodico h2{font-size: 3rem; text-align: right; background-color: #DDDDDD; border-bottom: 3px gray dashed;margin-top:auto; margin-bottom: 10px; padding-right: 10px}
+.periodico h3{background-color: #EEEEEE;padding-top: 10px; text-align: center; margin-top: auto;}
+.periodico h4{background-color: gray;color: white;text-align: right;padding-right: 10px}
+.periodico p{padding-right: 10px; margin-top: 10px; border: 1px solid black; text-align: center; margin-top: auto}
