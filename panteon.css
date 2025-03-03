@@ -1,0 +1,3 @@
+ .container {background-image: url(panteon.jpg); width: 722px; height: 480px; margin: auto}
+ .espacio {display:flex; justify-content: center; margin-top: 200px; gap: 68px; margin-left: 22px;}
+ .columnahueca {width: 70px; height: 150px}
