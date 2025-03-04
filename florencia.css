@@ -1,7 +1,16 @@
 .container{background-color: transparent}
 .titulo h1{color: #191970;text-align: right; text-transform: uppercase; letter-spacing: 50px;}
-.parte1{}
 h2{color: white}
 .titulo1{background-color: #5B6135}
 .imagen1{
-  background-image: url("https://pablomonteserin.com/res/html5/ex/florencia/img/santa_maria_novella.jpg")}
+background-image: url("https://pablomonteserin.com/res/html5/ex/florencia/img/santa_maria_novella.jpg"); width: 326px; height: 320px; display: block; margin: auto;}
+.imagen3{background-image: url("https://pablomonteserin.com/res/html5/ex/florencia/img/santa_croce.jpg");width: 297px; height: 320px; float: right;}
+p{text-align: center;}
+.parte2 {display: flex;}
+.parrafo{display: flex; margin-top: 0%; padding-left: 10px;}
+.imagen2 {
+  background-image: url("https://pablomonteserin.com/res/html5/ex/florencia/img/santa_maria_del_fiore.jpg");
+  width: 257px;
+  height: 321px;
+  display: flex
+}

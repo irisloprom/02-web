@@ -1,0 +1,6 @@
+.container{width: 1200px;margin: auto}
+h1{text-align: center;}
+.rectangulo{display: flex; justify-content: center; flex-wrap: wrap;gap: 20px}
+.cuadrado{width: 200px;height: 200px; border: 2px dashed orange;padding: 10px;box-sizing: border-box;}
+.cuadrado p::first-of-type:first-letter {font-size: 3em}
+.cuadrado p{line-height: 1.5rem}
